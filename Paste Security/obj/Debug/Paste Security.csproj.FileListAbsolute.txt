@@ -1,0 +1,2 @@
+C:\Users\Victor Hugo\Projects\C#\Projects\Paste Security\Paste Security\bin\Debug\Paste Security.exe.config
+C:\Users\Victor Hugo\Projects\C#\Projects\Paste Security\Paste Security\bin\Debug\Security.exe.config
